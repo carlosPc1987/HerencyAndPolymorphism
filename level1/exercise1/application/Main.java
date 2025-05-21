@@ -4,7 +4,7 @@ import level1.exercise1.model.PercussionInstrument;
 import level1.exercise1.model.StringInstrument;
 import level1.exercise1.model.WindInstrument;
 
-public class MainInstruments {
+public class Main {
     public static void main(String[] args) {
         StringInstrument guitar = new StringInstrument("Guitar", 680.00);
         PercussionInstrument drums = new PercussionInstrument("Drums", 1500.00);
