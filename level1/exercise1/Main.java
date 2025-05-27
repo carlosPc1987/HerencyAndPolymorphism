@@ -1,4 +1,4 @@
-package level1.exercise1.application;
+package level1.exercise1;
 
 import level1.exercise1.model.PercussionInstrument;
 import level1.exercise1.model.StringInstrument;
